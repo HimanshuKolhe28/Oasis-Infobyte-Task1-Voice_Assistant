@@ -1,1 +1,1 @@
-# Oasis-Infobyte-Task1-Voice_Assistant
+This Python script sets up a basic voice assistant using speech recognition and text-to-speech capabilities. It responds to commands like "hello," "time," "date," and "search [query]" by converting spoken commands to text, executing corresponding actions (such as telling the time or opening a Google search), and speaking back responses. It uses libraries such as speech_recognition, pyttsx3, and webbrowser, and includes error handling for speech recognition issues.
